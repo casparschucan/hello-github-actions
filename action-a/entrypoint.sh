@@ -8,4 +8,4 @@ sh -c "ls"
 
 sh -c "touch output.txt"
 
-sh -c ".action-a/input.sh > output.txt"
+sh -c "./action-a/input.sh > output.txt"
